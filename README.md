@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--km-xwalk-01--konradmoser.aem.page/
+- Live: https://main--km-xwalk-01--konradmoser.aem.live/
 
 ## Documentation
 
